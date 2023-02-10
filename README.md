@@ -6,3 +6,17 @@
 进阶作业模型文件：
 链接：https://pan.baidu.com/s/1rgsMukiIzLFK2UY8lUY6Cw 
 提取码：5w7n 
+
+
+作业2基础作业
+log文件：20230209_175001.log
+配置文件：mask_rcnn_r50_fpn_1x_wandb_coco.py
+模型文件：
+链接：https://pan.baidu.com/s/1Und7ykbvnBwr2CuQlxfK1g 
+提取码：ya2s 
+
+
+
+作业2进阶作业模型文件：
+链接：https://pan.baidu.com/s/1AmI-cPofko60wdxKVqtgLw 
+提取码：dpyb 
