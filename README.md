@@ -29,3 +29,7 @@ log文件：20230209_175001.log
 链接：https://pan.baidu.com/s/12vhZOd6eFPWvXuhKAHsaxg 
 提取码：xs1l 
 
+
+作业2基础splash视频
+链接：https://pan.baidu.com/s/1EY7TDcG7ZXjUW4fFBSogCQ 
+提取码：bcoc 
